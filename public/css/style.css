@@ -1,0 +1,76 @@
+h3{
+    margin-top: 5px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+h6{
+    text-align:center;
+    margin-top: 15px;
+    font-size: 20px;
+}
+body .navbar{
+    background-color:#0B2447;
+    padding: 0;
+    margin: 0;
+} 
+
+.card-title{
+    text-align: center;
+}
+.card-deck{
+    width: 400px;
+}
+.card{
+    width: 300px;
+    height: 350px;
+}
+.card-group{
+    margin-top: 15px;
+}
+p{
+    text-align: justify;
+}
+.container-fluid{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    margin: 10px;
+}
+.carousel-inner{
+    width: 100%;
+    height: 500px;
+}
+.text-muted{
+    text-align: center;
+}
+.icon .fa-solid{
+    display: block;
+}
+.navbar-brand{
+    color: rgb(231, 231, 231);
+}
+.nav-item{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-icon{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-decoration: none;
+}
+.nav-link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 19px;
+    background-color: none;
+    padding: 6px;
+}
+  
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+
+    text-align: center;
+    font-size: 15px;
+}
